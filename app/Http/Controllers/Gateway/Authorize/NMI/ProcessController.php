@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Gateway\NMI;
+namespace App\Http\Controllers\Gateway\Authorize\NMI;
 
 use App\Models\Deposit;
 use App\Http\Controllers\Gateway\PaymentController;
